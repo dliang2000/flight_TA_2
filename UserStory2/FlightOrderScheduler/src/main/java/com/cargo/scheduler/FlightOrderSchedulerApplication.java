@@ -7,7 +7,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class FlightOrderSchedulerApplication {
-    private static final String ORDERS_FILE_PATH = "../../../../resource/coding-assigment-orders.json";
+    private static final String ORDERS_FILE_PATH = "src/main/resources/coding-assigment-orders.json";
 
     public static void main(String[] args) {
         try {
